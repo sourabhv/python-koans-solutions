@@ -1,0 +1,16 @@
+/*
+!.gitignore
+!python3
+
+python3/*
+!python3/koans
+
+python3/koans/*
+!python3/koans/*.py
+
+python3/koans/another_local_module.py
+python3/koans/jims.py
+python3/koans/joes.py
+python3/koans/local_module.py
+python3/koans/local_module_with_all_defined.py
+python3/koans/triangle.py
